@@ -1,1 +1,0 @@
-1) Decision Task via [Pavlovia](https://pavlovia.org/): One method of creating a decision task is via Pavlovia. Here is a great example project of how --> [Click here](https://github.com/cogcommscience-lab/movie_selection/tree/master/decision_task_pavlovia) 
